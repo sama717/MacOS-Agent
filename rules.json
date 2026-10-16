@@ -1,0 +1,28 @@
+{
+    "name_starts_with": {
+        "Screenshot": "Screenshots",
+        "screencapture": "Screenshots",
+        "Frame": "Design",
+        "Group": "Design",
+        "Presentation": "Design"
+    },
+    "extensions": {
+        ".pdf": "Documents",
+        ".docx": "Documents",
+        ".doc": "Documents",
+        ".xlsx": "Documents",
+        ".png": "Images",
+        ".jpg": "Images",
+        ".jpeg": "Images",
+        ".heic": "Images",
+        ".avif": "Images",
+        ".svg": "Design",
+        ".mov": "Videos",
+        ".mp4": "Videos",
+        ".rar": "Archives",
+        ".html": "Code",
+        ".proto": "Code",
+        ".ipynb": "Code"
+    },
+    "fallback": "Unsorted"
+}
